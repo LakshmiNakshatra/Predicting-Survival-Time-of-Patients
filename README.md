@@ -1,0 +1,2 @@
+# Predicting-Survival-Time-of-Patients
+The dataset contains information on 108 patients. The variables are defined as follows. Predictor variables- bloclot: blood clotting score, prog: prognostic index, enzy: enzyme function test score, liverfunc: liver function test score, age: age, gender: gender (0=male, 1=female), alco: history of alcohol use (0=none, 1=moderate, 2=severe). Response variable - survival: survival time after the liver operation (in days)  The data are divided into two parts: training data containing 60 observations and test data with 48 observations.
